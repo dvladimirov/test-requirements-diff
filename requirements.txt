@@ -1,9 +1,9 @@
-# Further updated requirements
-requests==2.27.1
-numpy==1.22.0
-# pandas removed in this version
-matplotlib==3.5.1
-scikit-learn==1.0.0
-scipy==1.8.0
-# New packages
-tensorflow==2.8.0
+# Latest requirements with potential compatibility issues
+requests==2.28.1
+numpy==1.23.0  # Major version bump
+matplotlib==3.6.0
+scikit-learn==1.1.2
+scipy==1.9.1
+tensorflow==2.10.0  # Major version bump
+# Downgraded dependency (potential issue)
+setuptools==59.8.0
