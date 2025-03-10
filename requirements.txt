@@ -1,6 +1,8 @@
-# Initial requirements
-requests==2.25.1
-numpy==1.20.1
-pandas==1.2.3
-matplotlib==3.3.4
-scikit-learn==0.24.1
+# Updated requirements - version bumps
+requests==2.26.0
+numpy==1.21.0
+pandas==1.3.0
+matplotlib==3.4.2
+scikit-learn==0.24.2
+# Added new dependency
+scipy==1.7.0
